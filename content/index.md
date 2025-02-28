@@ -1,3 +1,8 @@
 ---
-title: KKangKKang의 개발 블로그에 오신 것을 환영합니다!
+title: KKangKKang의 블로그
+tags:
+  - 백엔드
 ---
+
+
+개발, 일상, 아이디어 .. 모두 올립니다!
